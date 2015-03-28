@@ -1,2 +1,0 @@
-TutorialListView.MainActivity;tutoriallistview.MainActivity
-TutorialListView.ListViewAdapter;tutoriallistview.ListViewAdapter
